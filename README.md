@@ -10,7 +10,7 @@ Music Playback: Plays random songs from a specified music directory.
 Real-Time Updates: Provides current time and interacts dynamically with the user.
 # Installation & Setup
 1. Clone the repository:
-   git clone https://github.com/yourusername/desktop-virtual-assistant.git
+   git clone https://github.com/vvkgautam9686/JarvisAI.git
 2.Install dependencies:
   pip install pyttsx3 speechrecognition wikipedia pywhatkit openai
 3. Add your OpenAI API key to config.py:
