@@ -1,5 +1,5 @@
 # Desktop Virtual Assistant (Jarvis) using Python & OpenAI API
-This project is a voice-controlled virtual assistant similar to Alexa, built using Python. It integrates speech recognition, text-to-speech, Wikipedia search, web browsing, and AI-powered chat capabilities using the OpenAI API.
+This project is a voice-controlled virtual assistant similar to Alexa, built by using Python. It integrates speech recognition, text-to-speech, Wikipedia search, web browsing, and AI-powered chat capabilities using the OpenAI API.
 
 # Features
 Voice Commands: Recognizes and responds to user commands via speech.
